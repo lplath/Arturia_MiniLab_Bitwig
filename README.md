@@ -1,1 +1,1 @@
-# Arturia_MiniLab_Bitwig
+# Arturia MiniLab Bitwig Controller Script
