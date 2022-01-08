@@ -18,9 +18,7 @@ The left side of the rotary encoders (1-4 and 9-12) are mapped to the Remote Con
 Download the repository and copy into the following location:
 - macOS
 `Documents/Bitwig Studio/Controller Scripts`
-
--Windows
+- Windows
 `%USERPROFILE%\Documents\Bitwig Studio\Controller Scripts`
-
--Linux
+- Linux
 `~/Bitwig Studio/Controller Scripts`
