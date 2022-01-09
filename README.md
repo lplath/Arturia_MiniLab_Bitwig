@@ -1,8 +1,10 @@
 # Arturia MiniLab Bitwig Controller Script
+![Minilab](https://medias.arturia.net/images/products/minilab/minilab-image.png "Minilab")
+
 ## Mapping
 
 ### Remote Controls
-The left side of the rotary encoders (1-4 and 9-12) are mapped to the Remote Controls Panel
+- The left side of the rotary encoders (1-4 and 9-12) are mapped to the Remote Controls Panel
 - Shift + Ocatve Up/Down switches between panels
 - Shift + Octave Up + Octave Down jumps to the first Control Panel
 
